@@ -1,6 +1,5 @@
 ---
 title: Our Coffee
-type: products
 image: /img/products-jumbotron.jpg
 heading: What we offer
 description: >-
@@ -70,33 +69,32 @@ testimonials:
       stance on empowering farmers and transparency.
 full_image: /img/products-full-width.jpg
 pricing:
-  heading: Monthly subscriptions
-  description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+  heading: Pricing
+  description: ''
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: 'Personal projects, small clusters'
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
+        - Backup a single cluster
+        - Keep 1-3 backups
+        - Single user account
+        - ''
+      plan: Personal
+      price: 10/mo + storage
+    - description: Teams + small companies
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+        - Backup multiple clusters
+        - Unlimited backups
+        - Manage users + groups
+      plan: Team
+      price: $100/mo + storage
+    - description: Large companies
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: '?'
+        - Backup unlimited clusters
+        - Unlimited backups
+        - SSO/SAML Login
+        - Google Login
+        - ''
+      plan: Enterprise
+      price: Contact Us
 ---
-
 
