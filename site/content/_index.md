@@ -1,40 +1,34 @@
 ---
 title: 'Sleep Easy, Keep Backups'
 subtitle: Set-it-and-forget-it Kubernetes Backups
-image: /img/baqups_metrics_header.jpg
+image: /img/Baqups_servers.jpg
 blurb:
   heading: Why Baqups?
-  text: >-
-    Baqups is backups for Kubernetes Clusters. All your configuration, all your
-    data. You could run opensource tooling, but then you'd have to construct
-    monitoring acount that, and test restores.
+  text: >
+    Baqups is painless backups for Kubernetes Clusters. All your configuration,
+    all your data. You could run opensource tooling, but then you'd have to
+    construct monitoring around that, and test restores.
 intro:
   heading: What we offer
   text: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+    Automatic backup + validation for kubernetes clusters. No more custom
+    solutions that break and don’t work when you need them the most.
 products:
-  - image: img/illustrations-coffee.svg
+  - image: /img/K8s Logo Backup.svg
     text: >-
-      We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
-  - image: /img/illustrations-coffee-gear.svg
+      Set the frequency & install the daemon, we do the rest.
+
+      No mucking about with bucket policies, IAM or custom scripts. Sane
+      defaults all the way. 
+  - image: /img/Validation.svg
     text: >-
-      We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+      Every backup is automatically validated by setting up and tearing down a
+      new cluster. Your backups will always be there when you need them.
 values:
   heading: Our values
   text: >-
-    Coffee is an amazing part of human culture but it has a dark side too – one
-    of colonialism and mindless abuse of natural resources and human lives. We
-    want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+    Backups are mission-critical infrastrure and they're not really backups
+    unless you've verified them. We're on a mission to verify every backup, so
+    no one is ever left in a disaster scenario without the tools they need.
 ---
 
