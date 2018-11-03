@@ -1,7 +1,7 @@
 ---
 title: 'Sleep Easy, Keep Backups'
 subtitle: Set-it-and-forget-it Kubernetes Backups
-image: /img/screen-shot-2018-09-26-at-11.08.22-am.png
+image: /img/baqups_metrics_header.jpg
 blurb:
   heading: Why Baqups?
   text: >-
